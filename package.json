@@ -1,0 +1,25 @@
+{
+  "name": "harlem-shake",
+  "version": "1.0.0",
+  "description": "Short npm package for make an Harlem Shake with your HTML code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Chopard/harlem-shake.git"
+  },
+  "author": "Alex-Chopard",
+  "license": "MIT",
+  "keywords": [
+    "harlem-shake",
+    "harlem",
+    "shake",
+    "js"
+  ],
+  "bugs": {
+    "url": "https://github.com/Alex-Chopard/harlem-shake/issues"
+  },
+  "homepage": "https://github.com/Alex-Chopard/harlem-shake#readme"
+}
