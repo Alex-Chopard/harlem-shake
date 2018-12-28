@@ -22,7 +22,5 @@
     "url": "https://github.com/Alex-Chopard/harlem-shake/issues"
   },
   "homepage": "https://github.com/Alex-Chopard/harlem-shake#readme",
-  "dependencies": {
-    "play-sound": "^1.1.2"
-  }
+  "dependencies": {}
 }
