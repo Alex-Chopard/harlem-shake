@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <title>Test</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
   </head>
   <body>
     
@@ -24,7 +23,8 @@
 
     <script src="../index.js"></script>
     <script>
-      new HarlemShake({ singleDancer: '#main'}).start()
+      const url = '../assets/harlem-shake.mp3'
+      new HarlemShake({ singleDancer: '#main'}, url).start()
     </script>
   </body>
 </html>
