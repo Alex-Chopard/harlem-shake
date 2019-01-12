@@ -1,4 +1,1 @@
-node_modules/
-dist/*.html
-dist/*.mp3
-.env
+node_modules
