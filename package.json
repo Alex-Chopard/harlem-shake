@@ -4,7 +4,6 @@
   "description": "Short npm package for make an Harlem Shake with your HTML code.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
